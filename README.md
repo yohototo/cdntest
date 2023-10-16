@@ -28,4 +28,4 @@ addEventListener("fetch", event => {
 })
 ```
 
-## [release](https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.4)
+## [2.2.4下载](https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.4)
